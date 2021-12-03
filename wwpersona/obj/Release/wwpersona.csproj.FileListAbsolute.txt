@@ -1,0 +1,3 @@
+C:\Archivos de programa\IgnitionPc\CSharpModel\web\bin\wwpersona.dll
+C:\Archivos de programa\IgnitionPc\CSharpModel\build\wwpersona\obj\Release\wwpersona.csprojResolveAssemblyReference.cache
+C:\Archivos de programa\IgnitionPc\CSharpModel\build\wwpersona\obj\Release\wwpersona.dll
