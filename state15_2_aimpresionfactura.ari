@@ -1,0 +1,35 @@
+current_obj_i(2,proc,15).
+ 
+current_guid('82f9e582-d25a-4122-b9cc-092ea9e6aeef').
+ 
+ 
+ 
+is_webproc_i(aimpresionfactura).
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(aimpresionfactura,'Impresion Factura','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(aimpresionfactura,[],[],[],15).
+ 
+ 
+obj_parms_i([ 'short aP0_FacturaId' ],[ [ 'Facturaid',in ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
